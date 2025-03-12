@@ -15,6 +15,6 @@ public class Main {
         if (a == 0){
             System.out.println("The number is zero");
 
-        };
+        }
     }
     }
